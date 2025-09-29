@@ -34,8 +34,7 @@ Let’s start with the basics — setting everything up so the script can do its
 #### 3. List all your playlists and subscriptions
 
 > [!IMPORTANT]
-> Make sure the `Main.gs` file is selected in the left panel when running these functions.  
-> Otherwise, they might not appear in the function dropdown menu.
+> Make sure the `Main.gs` file is selected in the left panel when running these functions. Otherwise, they might not appear in the function dropdown menu.
 
 - In the Apps Script editor, select the `listMyPlaylists` function and click **Run**.
 - Authorize the script if it’s your first time running it.
@@ -74,8 +73,7 @@ Once the basics are in place, you can take it a step further by adding automatio
 #### Set up a time-driven trigger
 
 > [!TIP]
-> Running the script on an hourly schedule is recommended.  
-> This schedule should not exceed the daily YouTube Data API quota, while still keeping your playlists updated quickly.
+> Running the script on an hourly schedule is recommended. This schedule should not exceed the daily YouTube Data API quota, while still keeping your playlists updated quickly.
 
 - Go to **Triggers** (alarm clock icon on the left).
 - Click **Add Trigger** in the bottom-right corner.
