@@ -11,6 +11,7 @@ It is built with Google Apps Script and the YouTube Data API v3.
 - Detects and adds the latest videos from your favorite channels to playlists.
 - Avoids duplicates by keeping track of the last added videos.
 - Supports optional automation with time-driven triggers.
+- Runs entirely on Google servers, no external servers involved — your privacy is protected.
 - Lists all your playlists and subscriptions to simplify the initial setup.
 - Provides clear, detailed logs for every execution.
 - Free and open source. :sunglasses:
